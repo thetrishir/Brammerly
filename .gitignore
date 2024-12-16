@@ -1,2 +1,4 @@
 #dataset
-*.csv
+# *.csv
+/datasets
+debug.log
